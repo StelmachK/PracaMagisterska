@@ -14,8 +14,6 @@ function setup() {
     cityCountSlider.input(myInputEvent);
     cityCountSlider.position(5, height - cityCountSlider.height * 1.5)
 }
-
-//add som dummy coment just for tets
 function draw() {
 
     background(55);
